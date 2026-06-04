@@ -4,7 +4,7 @@ A responsive React dashboard built to demonstrate React components, state manage
 
 ## 🚀 Live Demo
 
-Add your live demo link here after deploying on Vercel or Netlify.
+🔗 [View Live Dashboard](https://react-admin-dashboard-2q9e.vercel.app)
 
 ## 📌 About The Project
 
