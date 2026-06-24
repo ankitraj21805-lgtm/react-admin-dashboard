@@ -1,18 +1,1 @@
-{
-  "name": "react-admin-dashboard",
-  "private": true,
-  "version": "1.0.0",
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "dependencies": {
-    "@vitejs/plugin-react": "latest",
-    "vite": "latest",
-    "react": "latest",
-    "react-dom": "latest"
-  },
-  "devDependencies": {}
-}
+{"name":"soul-hq-live","version":"1.0.0","private":true,"scripts":{"dev":"node setup.js && next dev","build":"node setup.js && next build","start":"next start"},"dependencies":{"lucide-react":"latest","next":"latest","react":"latest","react-dom":"latest"},"devDependencies":{"@types/node":"latest","@types/react":"latest","@types/react-dom":"latest","autoprefixer":"latest","postcss":"latest","tailwindcss":"^3.4.17","typescript":"latest"}}
