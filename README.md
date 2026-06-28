@@ -1,116 +1,79 @@
 # React Admin Dashboard
 
-A responsive React dashboard built to demonstrate React components, state management, clean UI design, and recruiter-friendly frontend project structure.
+A responsive React dashboard built to demonstrate component-based UI development, dashboard layout architecture, project tracking workflows, and production-style frontend organization.
 
-## 🚀 Live Demo
+## Live Demo
 
-🔗 [View Live Dashboard](https://react-admin-dashboard-2q9e.vercel.app)
+[View Live Dashboard](https://react-admin-dashboard-2q9e.vercel.app/)
 
-## 📌 About The Project
+## Overview
 
-This project is a developer progress dashboard for tracking projects, tasks, skills, and GitHub improvement work.
+This project is a clean admin/dashboard interface designed for tracking projects, skills, tasks, and GitHub improvement work. It is built as a portfolio-ready React project for Frontend Developer, React Developer, and Full Stack Developer roles.
 
-It is designed as a portfolio-ready React project for Frontend Developer, React Developer, Web Developer, and Junior Full Stack roles.
-
-## ✨ Features
+## Features
 
 - Responsive dashboard layout
 - Sidebar navigation
 - Project pipeline table
-- Filter projects by status
+- Status-based project filtering
 - Skill progress panel
-- Task list panel
-- Reusable React components
-- Clean folder structure
-- Mobile-friendly design
+- Task tracking panel
+- Reusable component structure
+- Clean Vite + React setup
+- Mobile-friendly dashboard UI
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-- React.js
-- Vite
-- JavaScript
-- CSS3
-- Responsive Design
+| Layer | Technology |
+|---|---|
+| Frontend | React.js, JavaScript |
+| Build Tool | Vite |
+| Styling | CSS |
+| Deployment | Vercel |
+| Version Control | Git, GitHub |
 
-## 📂 Folder Structure
+## Skills Demonstrated
+
+- React component architecture
+- State-based UI rendering
+- Dashboard layout design
+- Responsive frontend development
+- Deployment on Vercel
+- Project documentation and GitHub presentation
+
+## Recommended GitHub Topics
 
 ```txt
-react-admin-dashboard/
-│
-├── index.html
-├── package.json
-├── README.md
-└── src/
-    ├── App.jsx
-    ├── data.js
-    ├── main.jsx
-    ├── styles.css
-    └── components/
-        ├── Header.jsx
-        ├── ProjectTable.jsx
-        ├── Sidebar.jsx
-        ├── SkillPanel.jsx
-        ├── StatCard.jsx
-        └── TaskList.jsx
+react
+vite
+dashboard
+admin-dashboard
+frontend
+javascript
+responsive-design
+vercel
+portfolio-project
 ```
 
-## ⚙️ Installation
+## Local Setup
 
 ```bash
 npm install
-```
-
-## ▶️ Run Locally
-
-```bash
 npm run dev
 ```
 
-Then open the local URL shown in terminal, usually:
+## Roadmap
 
-```txt
-http://localhost:5173/
-```
+- Add charts and analytics cards
+- Add mock API integration
+- Add authentication layout
+- Add dark/light theme support
+- Add screenshots to README
 
-## 🏗️ Build For Production
+## Author
 
-```bash
-npm run build
-```
-
-## 🔍 Preview Production Build
-
-```bash
-npm run preview
-```
-
-## 🧠 What I Learned
-
-- Creating reusable React components
-- Managing state with React hooks
-- Filtering project data dynamically
-- Building responsive dashboard UI
-- Structuring a professional React project
-- Preparing a project for GitHub and recruiters
-
-## 🔮 Future Improvements
-
-- Add dark/light mode toggle
-- Add chart visualizations
-- Add real GitHub API data
-- Add authentication UI
-- Add localStorage support
-- Deploy on Vercel
-
-## 👨‍💻 Author
-
-**Ankit Sharma**  
-Frontend Developer | React Learner | Junior Full Stack | AI Automation Enthusiast
+**Ankit Sharma**
 
 - GitHub: [ankitraj21805-lgtm](https://github.com/ankitraj21805-lgtm)
-- LinkedIn: [Ankit Sharma](https://www.linkedin.com/in/ankit-sharma-699b51317/)
+- LinkedIn: [ankitsharma-frontend](https://www.linkedin.com/in/ankitsharma-frontend/)
 - Email: [ankitraj21805@gmail.com](mailto:ankitraj21805@gmail.com)
-
-## 📄 License
-
-This project is open source and available under the MIT License.
